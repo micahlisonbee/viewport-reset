@@ -1,4 +1,4 @@
-viewport-exclusion
+viewport-reset
 ==================
 
 When using the tag: <pre><code>&lt;meta viewport&gt;</code></pre> to target mobile screens, sometimes you don't want to target all devices that recognize this tag.
