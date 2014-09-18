@@ -1,7 +1,7 @@
 viewport-reset
 ==================
 
-When using the tag: <pre><code>&lt;meta viewport&gt;</code></pre> to target mobile screens, sometimes you don't want to target all devices that recognize this tag.
+When using the tag <code>&lt;meta viewport&gt;</code> to target mobile screens, sometimes you don't want to target all devices that recognize this tag.
 
 For example, if you want a viewport to load in 'device-width' for iPhones, but not for iPads.
 
